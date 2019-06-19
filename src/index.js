@@ -1,4 +1,4 @@
-import * as pairs from 'hexlet-pairs';
+import * as pairs from '@hexlet/pairs';
 
 /**
  * Tagged data constructor

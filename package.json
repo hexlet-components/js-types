@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/tagged-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/hexlet-components/js-types#readme",
   "dependencies": {
-    "hexlet-pairs": "^1.0.7",
-    "hexlet-pairs-data": "^1.0.8"
+    "@hexlet/pairs": "^1.0.7",
+    "@hexlet/pairs-data": "^1.0.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
