@@ -12,8 +12,8 @@ export const attach = (tag, data) => pairs.cons(tag, data);
  * Get type of tagged data
  * @name typeTag
  * @example
- * attach('simpleTag', card);
- * typeTag(taggedData); // simpleTag
+ * const tag = attach('simpleTag', card);
+ * typeTag(tag); // simpleTag
  */
 export const typeTag = taggedData => pairs.car(taggedData);
 
@@ -21,7 +21,7 @@ export const typeTag = taggedData => pairs.car(taggedData);
  * Get contents from tagged data
  * @name contents
  * @example
- * attach('complexTag', cons(1, 2));
- * typeTag(contents); // (1, 2)
+ * const tag = attach('complexTag', cons(1, 2));
+ * contents(tag); // (1, 2)
  */
 export const contents = taggedData => pairs.cdr(taggedData);
