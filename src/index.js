@@ -1,3 +1,5 @@
+// @ts-ckeck
+
 import * as pairs from '@hexlet/pairs';
 
 /**
