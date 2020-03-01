@@ -15,7 +15,7 @@ export const attach = (tag, data) => pairs.cons(tag, data);
  * @name typeTag
  * @example
  * const tag = attach('simpleTag', card);
- * typeTag(tag); // simpleTag
+ * typeTag(tag); // 'simpleTag'
  */
 export const typeTag = (taggedData) => pairs.car(taggedData);
 
