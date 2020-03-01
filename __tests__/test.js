@@ -1,3 +1,5 @@
+// @ts-ckeck
+
 import * as list from '@hexlet/pairs-data';
 import { attach, typeTag, contents } from '../src';
 
