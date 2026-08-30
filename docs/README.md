@@ -6,12 +6,12 @@
 
 ### Table of Contents
 
--   [attach][1]
-    -   [Examples][2]
--   [typeTag][3]
-    -   [Examples][4]
--   [contents][5]
-    -   [Examples][6]
+- [attach][1]
+    - [Examples][2]
+- [typeTag][3]
+    - [Examples][4]
+- [contents][5]
+    - [Examples][6]
 
 ## attach
 
