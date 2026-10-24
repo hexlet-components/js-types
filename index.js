@@ -1,4 +1,4 @@
-// @ts-ckeck
+// @ts-check
 
 import * as pairs from "@hexlet/pairs";
 

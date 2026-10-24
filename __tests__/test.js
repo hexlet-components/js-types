@@ -1,4 +1,4 @@
-// @ts-ckeck
+// @ts-check
 
 import * as list from "@hexlet/pairs-data";
 import { attach, contents, typeTag } from "../index.js";
